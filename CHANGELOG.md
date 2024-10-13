@@ -8,6 +8,8 @@
 
 ## Features
 
+- Initialize powershell scripts ([d982d44](https://github.com/noclocks/client-gmh-communities/commit/d982d44e65022350376741da01a360c762e585a6))  - (Jimmy Briggs)
+- Automate CSV <-> Markdown for links ([67330a3](https://github.com/noclocks/client-gmh-communities/commit/67330a39f8ac6b696012f1e5ad2d70f3f21f8def))  - (Jimmy Briggs)
 - Add contacts.csv and links.csv metadata for client ([3ae82a7](https://github.com/noclocks/client-gmh-communities/commit/3ae82a7880864f1e48a7bed0bdd8f5f9ff9af3c7))  - (Jimmy Briggs)
 
 ***
