@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Documentation
+
+- Create database initial README.md ([013d7b7](https://github.com/noclocks/client-gmh-communities/commit/013d7b7b00feb5d24b98c2cf141fd5414db76973))  - (Jimmy Briggs)
+
 ## Features
 
 - Initialize powershell scripts ([d982d44](https://github.com/noclocks/client-gmh-communities/commit/d982d44e65022350376741da01a360c762e585a6))  - (Jimmy Briggs)
