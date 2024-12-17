@@ -1,0 +1,6 @@
+CREATE TABLE mkt.fee_types (
+  fee_type_id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  fee_type_name TEXT NOT NULL UNIQUE,
+  fee_type_description TEXT,
+  created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
+);

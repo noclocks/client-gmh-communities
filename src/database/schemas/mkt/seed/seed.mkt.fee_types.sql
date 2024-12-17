@@ -1,0 +1,15 @@
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Application Fee', 'Fee for applying to lease an apartment');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Administration Fee', 'Fee for administrative costs');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Utility Set Up Fee', 'Fee for setting up utilities');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Utility Deposit', 'Deposit for utilities');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Amenity Fee', 'Fee for amenities');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Common Area Fee', 'Fee for common areas');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Smart Home Fee', 'Fee for smart home features');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Restoration Fee', 'Fee for restoration');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Security Deposit', 'Deposit for security');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Fee - Dog', 'Fee for dogs');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Deposit - Dog', 'Deposit for dogs');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Rent - Dog', 'Rent for dogs');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Fee - Cat', 'Fee for cats');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Deposit - Cat', 'Deposit for cats');
+INSERT INTO mkt.fee_types (fee_type_name, fee_type_description) VALUES ('Pet Rent - Cat', 'Rent for cats');

@@ -1,0 +1,6 @@
+CREATE TABLE mkt.parking_types (
+  parking_type_id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  parking_type_name VARCHAR(255) NOT NULL UNIQUE,
+  created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
