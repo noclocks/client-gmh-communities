@@ -8,6 +8,7 @@
 
 ## Documentation
 
+- Add assets ([55f2dfa](https://github.com/noclocks/client-gmh-communities/commit/55f2dfa6e16c2c2d495a038349fbbbd8556e70da))  - (Jimmy Briggs)
 - Create database initial README.md ([013d7b7](https://github.com/noclocks/client-gmh-communities/commit/013d7b7b00feb5d24b98c2cf141fd5414db76973))  - (Jimmy Briggs)
 
 ## Features
